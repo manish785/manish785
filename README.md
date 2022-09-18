@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently making RestApi of my different projects like  **Ecommerce RestApi** , **Social Media Platform** , **Blog App**
 
-- 🌱 I’m good good at **Node, Express, MongoDB and learning React**
+- 🌱 I’m good at **Node, Express, MongoDB and learning React**
 
 - 💬 Ask me about **Backend Stuffs**
 
