@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently making RestApi of my different projects like  **Ecommerce RestApi** , **Social Media Platform** , **Blog App**
+- 🔭 I have created RestApi of my different projects like  **Ecommerce RestApi** , **Social Media Platform** , **Blog App**
 
 - 🌱 I’m good at **Node, Express, MongoDB and learning React**
 
